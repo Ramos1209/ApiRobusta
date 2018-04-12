@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoGrafico-Domain", "CalculoGrafico-Domain\CalculoGrafico-Domain.csproj", "{37703787-AF68-4CEB-A710-5B3D672F8396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoGafico-Infra", "CalculoGafico-Infra\CalculoGafico-Infra.csproj", "{8D9EF726-DEF6-4806-95BA-0D0D72FD3C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoGrafico-Application", "CalculoGrafico-Application\CalculoGrafico-Application.csproj", "{802B97EE-F4DB-48A6-A127-7038BB2A8433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoGrafico-IoC", "CalculoGrafico-IoC\CalculoGrafico-IoC.csproj", "{03E4FFEB-D366-4611-AEA3-DA735DE4DA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoGrafico-Web", "CalculoGrafico-Web\CalculoGrafico-Web.csproj", "{C962985E-CB91-46F1-B367-8D34360AA02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37703787-AF68-4CEB-A710-5B3D672F8396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37703787-AF68-4CEB-A710-5B3D672F8396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37703787-AF68-4CEB-A710-5B3D672F8396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37703787-AF68-4CEB-A710-5B3D672F8396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9EF726-DEF6-4806-95BA-0D0D72FD3C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9EF726-DEF6-4806-95BA-0D0D72FD3C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9EF726-DEF6-4806-95BA-0D0D72FD3C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9EF726-DEF6-4806-95BA-0D0D72FD3C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802B97EE-F4DB-48A6-A127-7038BB2A8433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802B97EE-F4DB-48A6-A127-7038BB2A8433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802B97EE-F4DB-48A6-A127-7038BB2A8433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802B97EE-F4DB-48A6-A127-7038BB2A8433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E4FFEB-D366-4611-AEA3-DA735DE4DA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E4FFEB-D366-4611-AEA3-DA735DE4DA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E4FFEB-D366-4611-AEA3-DA735DE4DA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E4FFEB-D366-4611-AEA3-DA735DE4DA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C962985E-CB91-46F1-B367-8D34360AA02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C962985E-CB91-46F1-B367-8D34360AA02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C962985E-CB91-46F1-B367-8D34360AA02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C962985E-CB91-46F1-B367-8D34360AA02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9260B4E6-C2BB-4507-BF75-411444976670}
+	EndGlobalSection
+EndGlobal
